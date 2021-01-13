@@ -1,2 +1,2 @@
 # Titanic-Survival-Prediction
-Informasi lengkap terhadap dataset dapat diakses pada link berikut : https://www.kaggle.com/c/titanic
+For more information about dataset please click : https://www.kaggle.com/c/titanic
